@@ -1,0 +1,20 @@
+.itemData {
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+  height: 120px;
+  width: 400px;
+  padding: 10px;
+}
+
+.btn {
+    margin: auto 10px;
+   width: auto;
+   height: 50px;
+}
+ .name {
+    padding: 6px;
+ }
+ .tel {
+    padding: 6px;
+ }
